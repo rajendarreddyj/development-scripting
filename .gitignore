@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.gradle/
+bin/
+
+# Spring
+.springBeans
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# git
+.git/
