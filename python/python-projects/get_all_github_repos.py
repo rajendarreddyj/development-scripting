@@ -1,7 +1,7 @@
 # Requires Python 2+
 # Usage
-# python git_all_repos.py users USER_NAME
-# python git_all_repos.py orgs ORG_NAME
+# python get_all_github_repos.py users USER_NAME
+# python get_all_github_repos.py orgs ORG_NAME
 import sys
 import os
 import requests
