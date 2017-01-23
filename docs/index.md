@@ -1,3 +1,3 @@
-development-python
+development-scripting
 =================
-This Directory will have example projects related to python.
+This respository will have example projects related to python/perl/shell.
