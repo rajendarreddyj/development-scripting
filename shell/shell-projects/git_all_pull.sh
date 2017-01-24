@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # A Simple Shell Script To do git pull on all repositories in directories and sub directories
 # Rajendarreddy Jagapathi - 23/Jan/2017
 # Usage

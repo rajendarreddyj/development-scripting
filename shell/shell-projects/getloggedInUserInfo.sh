@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Script to print user information who currently login , current date & time
 # Rajendarreddy Jagapathi - 23/Jan/2017

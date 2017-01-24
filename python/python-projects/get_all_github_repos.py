@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Requires Python 2+
 # Usage
 # python get_all_github_repos.py users USER_NAME
