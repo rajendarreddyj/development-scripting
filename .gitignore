@@ -32,3 +32,6 @@ nb-configuration.xml
 
 # git
 .git/
+
+# pydev
+.pydevproject
