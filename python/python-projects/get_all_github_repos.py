@@ -13,7 +13,7 @@ def get_total_repos(group, name):
     page = 1
     while True:
         url = 'https://api.github.com/{0}/{1}/repos?per_page=100&page={2}'
-        r = requests.get(url.format(group, name, page),verify=False)
+        r = requests.get(url.format(group, name, page), verify=False)
         if r.status_code == 200:
             rdata = r.json()
             for repo in rdata:

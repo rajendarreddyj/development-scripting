@@ -27,7 +27,6 @@ my $dbh      = DBI->connect(
 # Thus we put an eval around it.
 eval { $dbh->do("DROP TABLE people") };
 print "Dropping people failed: $@\n" if $@;
-
 my $sql = <<'END_SQL';
 CREATE TABLE people (
   id       INTEGER PRIMARY KEY,
