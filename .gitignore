@@ -5,6 +5,9 @@
 .gradle/
 bin/
 
+# code
+.vscode/
+
 # Spring
 .springBeans
 
