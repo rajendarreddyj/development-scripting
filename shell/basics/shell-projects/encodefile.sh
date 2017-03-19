@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Script to print user information who currently login , current date & time
+# Script to convert file to UTF-8 Encoding
 # Rajendarreddy Jagapathi - 23/Feb/2017
 # Usage
 # chmod +x encodefile.sh
