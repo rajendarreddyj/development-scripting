@@ -5,3 +5,4 @@
 # chmod +x git_all_pull.sh
 # bash git_all_pull.sh
 find . -name ".git" -type d | sed 's/\/.git//' |  xargs -P10 -I{} git -C {} pull
+exit 0

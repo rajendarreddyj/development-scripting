@@ -5,3 +5,4 @@
 # chmod +x getPathInfo.sh
 # bash getPathInfo.sh
 printf "The path is set to %s\n" $PATH
+exit 0

@@ -8,3 +8,4 @@
 if [ -f /var/run/reboot-required ]; then
   echo 'reboot required'
 fi
+exit 0

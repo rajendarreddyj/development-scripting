@@ -7,3 +7,4 @@
 echo "Current date : $(date) @ $(hostname)"
 echo "Network configuration"
 /sbin/ifconfig
+exit 0
