@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 #
 # Script to convert file to UTF-8 Encoding
