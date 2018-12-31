@@ -3,11 +3,7 @@ $pshost = Get-Host
 
 $psWindow = $pshost.UI.RawUI
 
-$newSize =$psWindow.BufferSize
-#$newSize.Height =4000
-#$newSize.Width = 200
-
-#$psWindow.BufferSize = $newSize
+$newSize = $psWindow.BufferSize
 
 $newSize = $psWindow.WindowSize
 $newSize.Height = 10
